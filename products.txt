@@ -1,0 +1,10 @@
+products_name, total_stock, number_of_order, shortage
+Air Conditioner, 20, 23, 3
+Refrigerator, 30, 31, 1
+Washing Machine, 19, 25, 6
+Microwave Oven, 17, 20, 3
+Laptop, 40, 45, 5
+Room Heater, 30, 35, 5
+Iron, 13, 13, 0
+Water Purifier, 16, 17, 1
+Smart Television, 17, 20, 3
